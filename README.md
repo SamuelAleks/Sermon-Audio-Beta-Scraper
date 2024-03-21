@@ -6,7 +6,7 @@ Brute-force web scraper for Sermon-Audio Beta
 
 ## Basic Program Architecture and Usage
 
-- Change **<u>line 46</u>** to your preferred URL
+- Change **<u>line 50</u>** to your preferred URL
 
 - Dependencies such as Selenium may need to be properly installed prior to execution
 
